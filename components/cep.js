@@ -5,7 +5,7 @@ from "react-native";
 export default function Cep(){
     return(
         <>
-        <Text> Cidade: </Text>
+        <Text> Cidade : </Text>
         <Text> Estado: </Text>
         <Text> Logradouro: </Text>
         <Text> Complemento: </Text>
